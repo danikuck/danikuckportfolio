@@ -2,9 +2,9 @@
 $pageTitle = 'Dani Kuck Portfolio'; 
 $numbers = 123.456; 
 
-$server = 'custsql-spro-ipg05.ipagemysql.com';
-$username = 'danikuck';
-$password = 'Shelbi!8594';
+$server = 'localhost';
+$username = 'root';
+$password = 'root';
 
 $conn = mysql_connect($server, $username, $password);
 
